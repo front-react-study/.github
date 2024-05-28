@@ -30,3 +30,9 @@
 | 3주차 | 5/31 ~ 6/7 | useEffect,useLayoutEffect|  |
 | 4주차 | 6/7 ~ 6/14 | useMemo,useCallback |  |
 | 5주차 | 6/14 ~ 6/21 | useTransition,useDeferredValue |  |
+
+</div>
+
+| <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> | <img src="./IMG_4598.jpeg"  width="150" height="150"/>|
+| :---: | :---: | :---: | :---: |
+|https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|https://github.com/seongbin1013|
