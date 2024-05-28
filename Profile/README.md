@@ -33,6 +33,6 @@
 
 </div>
 
-| <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> | <img src="./IMG_4598.jpeg"  width="150" height="150"/>|
-| :---: | :---: | :---: | :---: |
-|https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|https://github.com/seongbin1013|
+| <img src="./photo/sumi.jpg"  width="150" height="150"/> | <img src="./photo/lyuna29.jpeg"  width="150" height="150"/> | <img src="./photo/ssb.jpg"  width="150" height="150"/> | <img src="./photo/IMG_4598.jpeg"  width="150" height="150"/>| <img src="./photo/luke.jpg"  width="150" height="150"/> |
+| :---: | :---: | :---: | :---: | :---: |
+|https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|https://github.com/seongbin1013|https://github.com/Seokwoodang|
