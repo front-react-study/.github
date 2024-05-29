@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2B9CDB&height=250&section=header&text=React&fontSize=90&fontColor=ffffff&fontAlign=80)
+
+<img src="./photo/rodagaFinal.jpg"  width="100%" height="200"/> 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
