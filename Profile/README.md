@@ -13,7 +13,7 @@
 
 <div align="center">
     
-|인원 | 박수미, 임현아, 서샛별, 홍성빈, 최유상 (강석우튜터님🤣)|
+|인원 | 박수미, 임현아, 서샛별 (강석우튜터님🤣)|
 | --- | :-- |
 |기간 | 2024-05-16~2024-06-14|
 |시간 | 22:00~24:00
@@ -28,12 +28,12 @@
 | --- | --- | --- | --- |
 | 1주차 | 5/16 ~ 5/24 | useState,useReducer | 서샛별 |
 | 2주차 | 5/24 ~ 5/31 | useReducer,useContext,useRef| 임현아 |
-| 3주차 | 5/31 ~ 6/7 | useEffect,useLayoutEffect|  |
-| 4주차 | 6/7 ~ 6/14 | useMemo,useCallback |  |
-| 5주차 | 6/14 ~ 6/21 | useTransition,useDeferredValue |  |
+| 3주차 | 5/31 ~ 6/14 | useEffect,useLayoutEffect|  |
+| 4주차 | 6/14 ~ 6/21 | useMemo,useCallback |  |
+| 5주차 | 6/21 ~ 6/28 | useTransition,useDeferredValue |  |
 
 </div>
 
-| <img src="./photo/sumi.jpg"  width="150" height="150"/> | <img src="./photo/lyuna29.jpeg"  width="150" height="150"/> | <img src="./photo/ssb.jpg"  width="150" height="150"/> | <img src="./photo/IMG_4598.jpeg"  width="150" height="150"/>| <img src="./photo/luke.jpg"  width="150" height="150"/> |
-| :---: | :---: | :---: | :---: | :---: |
-|https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|https://github.com/seongbin1013|https://github.com/Seokwoodang|
+| <img src="./photo/sumi.jpg"  width="150" height="150"/> | <img src="./photo/lyuna29.jpeg"  width="150" height="150"/> | <img src="./photo/ssb.jpg"  width="150" height="150"/> | <img src="./photo/luke.jpg"  width="150" height="150"/> |
+| :---: | :---: | :---: |  :---: |
+|https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel| https://github.com/Seokwoodang|
