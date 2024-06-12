@@ -1,5 +1,5 @@
 
-<img src="./photo/rodagaFinal.jpg"  width="100%" height="400"/> 
+<img src="../photo/rodagaFinal.jpg"  width="100%" height="400"/> 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
