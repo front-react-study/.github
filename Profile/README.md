@@ -28,7 +28,7 @@
 | --- | --- | --- | --- |
 | 1주차 | 5/16 ~ 5/24 | useState,useReducer | 서샛별 |
 | 2주차 | 5/24 ~ 5/31 | useReducer,useContext,useRef| 임현아 |
-| 3주차 | 5/31 ~ 6/14 | useEffect,useLayoutEffect|  |
+| 3주차 | 5/31 ~ 6/14 | useEffect,useLayoutEffect| 서샛별 |
 | 4주차 | 6/14 ~ 6/21 | useMemo,useCallback |  |
 | 5주차 | 6/21 ~ 6/28 | useTransition,useDeferredValue |  |
 
